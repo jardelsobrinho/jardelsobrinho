@@ -7,6 +7,7 @@ I'm an Android developer with Web Service in Rest, always thinking about cool pr
 <summary>:bar_chart: Github Stats</summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jardelsobrinho&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 </details>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelsobrinho&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/{jardelsobrinho}/count.svg)
 :zap:
